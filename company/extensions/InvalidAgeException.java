@@ -1,4 +1,4 @@
-package company.beans.extensions;
+package company.extensions;
 
 public class InvalidAgeException {
     public class InvalidAgeException extends Exception {
